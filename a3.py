@@ -1,6 +1,6 @@
 #! /usr/bin/python3
 
-from tools import sha1, pw_gen
+from common import sha1, pw_gen
 
 q1a_hash = '15396F23938CD8E523F85D0C16A7D3BF4C922E5E'
 q1a_salt = b'eH'
